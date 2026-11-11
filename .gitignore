@@ -1,0 +1,23 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+*.cython
+*.pyc
+
+# mac specific
+.DS_Store
+
+# vscode
+.vscode/

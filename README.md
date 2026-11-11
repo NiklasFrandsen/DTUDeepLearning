@@ -1,2 +1,3 @@
 # DTUDeepLearning
-Repo for project on PINNs
+Repo for project on PINNs.
+
